@@ -1,5 +1,3 @@
-/* random change */
-
 package main.annotationDeprecatedAdded;
 
 @Deprecated
