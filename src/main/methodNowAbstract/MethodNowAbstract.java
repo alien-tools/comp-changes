@@ -4,7 +4,6 @@ public abstract class MethodNowAbstract {
 
 	public abstract int methodStayAbstract();
 	
-	public int methodNowAbstract() {
-		return 0;
-	}
+	public abstract int methodNowAbstract();
+	
 }

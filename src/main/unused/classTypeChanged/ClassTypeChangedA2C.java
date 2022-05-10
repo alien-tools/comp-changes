@@ -1,5 +1,5 @@
 package main.unused.classTypeChanged;
 
-public @interface ClassTypeChangedA2C {
+public class ClassTypeChangedA2C {
 
 }

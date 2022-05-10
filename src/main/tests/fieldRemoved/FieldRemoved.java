@@ -1,8 +1,7 @@
-package test.fieldRemoved;
+package main.tests.fieldRemoved;
 
 public class FieldRemoved {
-
-	public int fieldRemoved;
+	
 	public int fieldStay;
 	
 }

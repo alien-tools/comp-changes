@@ -1,5 +1,5 @@
 package main.unused.classTypeChanged;
 
-public class ClassTypeChangedC2I {
+public interface ClassTypeChangedC2I {
 
 }

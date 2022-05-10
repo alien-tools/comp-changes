@@ -2,7 +2,7 @@ package main.methodNoLongerStatic;
 
 public class MethodNoLongerStatic {
 
-	public static int methodNoLongerStatic() {
+	public int methodNoLongerStatic() {
 		return 0;
 	}
 	

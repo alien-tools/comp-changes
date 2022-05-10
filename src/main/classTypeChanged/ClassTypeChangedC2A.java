@@ -1,5 +1,5 @@
 package main.classTypeChanged;
 
-public class ClassTypeChangedC2A {
+public @interface ClassTypeChangedC2A {
 
 }

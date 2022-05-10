@@ -1,6 +1,6 @@
 package main.unused.classNowCheckedException;
 
-public class ClassNowCheckedException extends RuntimeException {
+public class ClassNowCheckedException extends Exception {
 
 	private static final long serialVersionUID = 1L;
 

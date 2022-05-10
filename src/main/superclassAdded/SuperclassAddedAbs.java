@@ -1,5 +1,5 @@
 package main.superclassAdded;
 
-public abstract class SuperclassAddedAbs {
+public abstract class SuperclassAddedAbs extends SuperSuperclassAdded {
 
 }

@@ -1,5 +1,5 @@
 package main.interfaceAdded;
 
-public abstract class InterfaceAddedAbs {
+public abstract class InterfaceAddedAbs implements IInterfaceAdded {
 
 }

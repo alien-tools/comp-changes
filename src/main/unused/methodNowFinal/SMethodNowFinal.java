@@ -2,7 +2,7 @@ package main.unused.methodNowFinal;
 
 public class SMethodNowFinal {
 
-	public int sMethodNowFinal() {
+	public final int sMethodNowFinal() {
 		return 1;
 	}
 	

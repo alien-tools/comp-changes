@@ -2,7 +2,7 @@ package main.unused.methodNoLongerThrowsCheckedException;
 
 public class MethodNoLongerThrowsCheckedException {
 
-	public void nowThrowsExcep() {
+	public void noLongerThrowsExcep() {
 		
 	}
 }

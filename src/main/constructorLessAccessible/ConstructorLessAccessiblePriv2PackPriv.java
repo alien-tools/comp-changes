@@ -2,11 +2,11 @@ package main.constructorLessAccessible;
 
 public class ConstructorLessAccessiblePriv2PackPriv {
 
-	private ConstructorLessAccessiblePriv2PackPriv() {
+	ConstructorLessAccessiblePriv2PackPriv() {
 		
 	}
 	
-	private ConstructorLessAccessiblePriv2PackPriv(int p) {
+	ConstructorLessAccessiblePriv2PackPriv(int p) {
 		
 	}
 }

@@ -1,5 +1,5 @@
 package main.classTypeChanged;
 
-public enum ClassTypeChangedE2C {
+public class ClassTypeChangedE2C {
 
 }

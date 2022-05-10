@@ -13,4 +13,5 @@ public abstract class SuperSuperclassAdded {
 	public static int staticMeth() {
 		return 0;
 	}
+
 }

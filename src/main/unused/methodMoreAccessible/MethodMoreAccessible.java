@@ -2,27 +2,27 @@ package main.unused.methodMoreAccessible;
 
 public class MethodMoreAccessible {
 	
-	protected void protected2public() {
+	public void protected2public() {
 		
 	}
 	
-	void pkgProtected2public() {
+	public void pkgProtected2public() {
 		
 	}
 	
-	void pkgProtected2protected() {
+	protected void pkgProtected2protected() {
 		
 	}
 	
-	private void private2public() {
+	public void private2public() {
 		
 	}
 	
-	private void private2protected() {
+	protected void private2protected() {
 		
 	}
 
-	private void private2pkgProtected() {
+	void private2pkgProtected() {
 		
 	}
 }
