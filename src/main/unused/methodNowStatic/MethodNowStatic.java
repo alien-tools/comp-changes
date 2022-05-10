@@ -2,7 +2,7 @@ package main.unused.methodNowStatic;
 
 public class MethodNowStatic {
 
-	public int methodNowStatic() {
+	public static int methodNowStatic() {
 		return 0;
 	}
 }

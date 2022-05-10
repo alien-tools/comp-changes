@@ -1,6 +1,8 @@
 package main.classNowFinal;
 
-public abstract class ClassNowFinalAbs {
+public final class ClassNowFinalAbs {
 
-	public abstract int m();
+	public int m() {
+		return 2;
+	}
 }

@@ -4,7 +4,6 @@ public interface IMethodNowAbstract {
 
 	public int methodStayAbstract();
 	
-	public default int methodNowAbstract() {
-		return 0;
-	}
+	public int methodNowAbstract();
+	
 }

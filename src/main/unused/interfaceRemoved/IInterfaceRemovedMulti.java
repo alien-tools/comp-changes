@@ -1,6 +1,6 @@
 package main.unused.interfaceRemoved;
 
-public interface IInterfaceRemovedMulti extends IInterfaceRemoved {
+public interface IInterfaceRemovedMulti {
 
 	int mMulti();
 	

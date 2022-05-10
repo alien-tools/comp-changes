@@ -2,7 +2,7 @@ package main.classLessAccessible;
 
 public class ClassLessAccessiblePackPriv2Priv {
 
-	class ClassLessAccessiblePackPriv2PrivInner {
+	private class ClassLessAccessiblePackPriv2PrivInner {
 		
 		public int publicField;
 		private int privateField;

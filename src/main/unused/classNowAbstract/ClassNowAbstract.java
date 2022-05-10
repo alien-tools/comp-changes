@@ -1,6 +1,6 @@
 package main.unused.classNowAbstract;
 
-public class ClassNowAbstract {
+public abstract class ClassNowAbstract {
 
 	public static final int CTE = 100;
 	

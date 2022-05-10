@@ -1,40 +1,42 @@
 package main.fieldTypeChanged;
 
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
 public class FieldTypeChanged extends FieldTypeChangedSuper {
 	public int unchangedPrimitive;
 	public A unchangedReference;
 	
-	public int changedPrimitive;
-	public A changedReference;
-
-	public byte widenPrimitive;
-	public B widenReference;
+	public A changedPrimitive;
+	public C changedReference;
 	
-	public short narrowPrimitive;
-	public A narrowReference;
+	public short widenPrimitive;
+	public A widenReference;
 	
-	public int boxing;
-	public Integer unboxing;
-	public boolean changedBoxing;
+	public byte narrowPrimitive;
+	public B narrowReference;
 	
-	public List<A> narrowReferenceList;
-	public List<B> widenReferenceList;
-	public List<A> changedReferenceList;
+	public Integer boxing;
+	public int unboxing;
+	public Integer changedBoxing;
 	
-	public List<A> narrowListReference;
-	public List<A> widenListReference; 
+	public List<B> narrowReferenceList;
+	public List<A> widenReferenceList;
+	public List<C> changedReferenceList;
 	
-	public int[] narrowPrimitiveArray;
-	public int[] widenPrimitiveArray;
+	public ArrayList<A> narrowListReference;
+	public Collection<A> widenListReference;
 	
-	public int[] boxPrimitiveArray;
-	public Integer[] unboxPrimitiveArray;
+	public short[] narrowPrimitiveArray;
+	public long[] widenPrimitiveArray;
 	
-	public A[] narrowReferenceArray;
-	public B[] widenReferenceArray;
-	public A[] changedReferenceArray;
+	public Integer[] boxPrimitiveArray;
+	public int[] unboxPrimitiveArray;
 	
-	public Exception exceptionTypeChanged;
+	public B[] narrowReferenceArray;
+	public A[] widenReferenceArray;
+	public C[] changedReferenceArray;
+	
+	public A exceptionTypeChanged;
 }

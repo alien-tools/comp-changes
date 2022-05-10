@@ -1,12 +1,5 @@
 package main.classNowAbstract;
 
-public class IClassNowAbstract {
+public interface IClassNowAbstract {
 
-	public IClassNowAbstract() {
-		
-	}
-
-	public IClassNowAbstract(int i) {
-		
-	}
 }

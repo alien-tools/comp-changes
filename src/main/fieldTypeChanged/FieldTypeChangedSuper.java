@@ -4,7 +4,7 @@ public class FieldTypeChangedSuper {
 	public A sameReference;
 	public int samePrimitive;
 	
-	public A differentReference;
-	public int differentPrimitive;
-	public boolean differentPrimitiveBoolean;
+	public C differentReference;
+	public C differentPrimitive;
+	public char differentPrimitiveBoolean;
 }

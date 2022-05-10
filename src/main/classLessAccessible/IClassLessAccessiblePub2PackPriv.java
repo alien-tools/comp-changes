@@ -1,6 +1,6 @@
 package main.classLessAccessible;
 
-public interface IClassLessAccessiblePub2PackPriv {
+interface IClassLessAccessiblePub2PackPriv {
 	public static final int publicField = 1;;
 	
 	public static int publicMethod() {

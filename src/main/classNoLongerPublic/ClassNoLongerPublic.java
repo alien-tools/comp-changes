@@ -1,6 +1,6 @@
 package main.classNoLongerPublic;
 
-public class ClassNoLongerPublic {
+class ClassNoLongerPublic {
 
 	public int field;
 	

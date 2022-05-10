@@ -1,14 +1,15 @@
 package main.methodReturnTypeChanged;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class MethodReturnTypeChanged {
 
-	public long methodReturnTypeChangedNumeric() {
+	public int methodReturnTypeChangedNumeric() {
 		return 0;
 	}
 	
-	public ArrayList methodReturnTypeChangedList() {
+	public List methodReturnTypeChangedList() {
 		return new ArrayList();
 	}
 }

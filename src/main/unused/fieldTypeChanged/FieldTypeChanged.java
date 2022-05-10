@@ -1,10 +1,10 @@
 package main.unused.fieldTypeChanged;
 
-import java.util.List;
+import java.util.ArrayList;
 
 public class FieldTypeChanged {
 
-	public int fieldNumeric;
-	public List fieldList;
+	public long fieldNumeric;
+	public ArrayList fieldList;
 	
 }

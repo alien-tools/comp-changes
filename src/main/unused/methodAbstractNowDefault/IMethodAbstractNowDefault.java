@@ -2,6 +2,8 @@ package main.unused.methodAbstractNowDefault;
 
 public interface IMethodAbstractNowDefault {
 
-	int methodAbstractNowDef();
+	default int methodAbstractNowDef() {
+		return 1;
+	}
 	
 }

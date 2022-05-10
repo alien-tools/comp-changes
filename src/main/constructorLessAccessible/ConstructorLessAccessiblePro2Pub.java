@@ -2,11 +2,11 @@ package main.constructorLessAccessible;
 
 public class ConstructorLessAccessiblePro2Pub {
 
-	protected ConstructorLessAccessiblePro2Pub() {
+	public ConstructorLessAccessiblePro2Pub() {
 		
 	}
 	
-	protected ConstructorLessAccessiblePro2Pub(int p) {
+	public ConstructorLessAccessiblePro2Pub(int p) {
 		
 	}
 }

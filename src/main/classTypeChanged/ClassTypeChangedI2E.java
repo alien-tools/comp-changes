@@ -1,5 +1,5 @@
 package main.classTypeChanged;
 
-public interface ClassTypeChangedI2E {
+public enum ClassTypeChangedI2E {
 
 }

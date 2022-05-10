@@ -2,7 +2,7 @@ package main.methodNowStatic;
 
 public interface IMethodNowStatic {
 
-	public default int methodNowStatic() {
+	public static int methodNowStatic() {
 		return 0;
 	}
 }

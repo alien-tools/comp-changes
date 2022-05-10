@@ -2,17 +2,17 @@ package main.unused.fieldMoreAccessible;
 
 public class FieldMoreAccessible extends FieldMoreAccessibleSuper {
 
-	public int public2protected;
-	public int public2packageprivate;
-	public int public2private;
-	protected int protected2public;
-	protected int protected2packageprivate;
-	protected int protected2private;
-	int packageprivate2public;
-	int packageprivate2protected;
-	int packageprivate2private;
-	private int private2public;
-	private int private2protected;
-	private int private2packageprivate;
+	protected int public2protected;
+	int public2packageprivate;
+	private int public2private;
+	public int protected2public;
+	int protected2packageprivate;
+	private int protected2private;
+	public int packageprivate2public;
+	protected int packageprivate2protected;
+	private int packageprivate2private;
+	public int private2public;
+	protected int private2protected;
+	int private2packageprivate;
 	
 }

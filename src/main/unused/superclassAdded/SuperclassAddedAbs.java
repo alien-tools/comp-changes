@@ -1,5 +1,5 @@
 package main.unused.superclassAdded;
 
-public abstract class SuperclassAddedAbs {
+public abstract class SuperclassAddedAbs extends SuperSuperclassAdded {
 
 }

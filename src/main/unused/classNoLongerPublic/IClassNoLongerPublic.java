@@ -1,6 +1,6 @@
 package main.unused.classNoLongerPublic;
 
-public interface IClassNoLongerPublic {
+interface IClassNoLongerPublic {
 
 	public static final int FIELD = 9;
 	

@@ -1,10 +1,10 @@
 package main.methodReturnTypeChanged;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public interface IMethodReturnTypeChanged {
 
-	public long methodReturnTypeChangedNumeric();
-	public ArrayList methodReturnTypeChangedList();
+	public int methodReturnTypeChangedNumeric();
+	public List methodReturnTypeChangedList();
 	
 }
