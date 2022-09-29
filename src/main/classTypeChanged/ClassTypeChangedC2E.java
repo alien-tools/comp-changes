@@ -1,5 +1,5 @@
 package main.classTypeChanged;
 
-public class ClassTypeChangedC2E {
-	public int FIELD;
+public enum ClassTypeChangedC2E {
+	FIELD
 }

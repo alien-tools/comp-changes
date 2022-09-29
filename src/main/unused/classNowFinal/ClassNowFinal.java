@@ -1,6 +1,6 @@
 package main.unused.classNowFinal;
 
-public class ClassNowFinal {
+public final class ClassNowFinal {
 
 	public int m() {
 		return 1;

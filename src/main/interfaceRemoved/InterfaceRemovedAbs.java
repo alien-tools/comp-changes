@@ -1,5 +1,5 @@
 package main.interfaceRemoved;
 
-public abstract class InterfaceRemovedAbs implements IInterfaceRemoved {
+public abstract class InterfaceRemovedAbs {
 
 }

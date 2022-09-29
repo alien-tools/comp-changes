@@ -1,8 +1,7 @@
-package test.methodRemoved;
+package main.tests.methodRemoved;
 
 public interface IMethodRemoved {
 	
-	public int methodRemoved();
 	public int methodStay();
 	
 }

@@ -2,11 +2,11 @@ package main.fieldMoreAccessible;
 
 public class FieldMoreAccessible extends FieldMoreAccessibleSuper {
 
-	protected int protected2public;
-	int packageprivate2public;
-	int packageprivate2protected;
-	private int private2public;
-	private int private2protected;
-	private int private2packageprivate;
+	public int protected2public;
+	public int packageprivate2public;
+	protected int packageprivate2protected;
+	public int private2public;
+	protected int private2protected;
+	int private2packageprivate;
 
 }

@@ -2,7 +2,7 @@ package main.unused.fieldNowFinal;
 
 public class FieldNowFinal {
 
-	public int fieldFinal;
+	public final int fieldFinal;
 	
 	public FieldNowFinal() {
 		fieldFinal = 4;

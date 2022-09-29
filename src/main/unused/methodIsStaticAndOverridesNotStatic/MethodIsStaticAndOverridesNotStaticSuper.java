@@ -1,6 +1,8 @@
 package main.unused.methodIsStaticAndOverridesNotStatic;
 
-public abstract class MethodIsStaticAndOverridesNotStaticSuper {
+public class MethodIsStaticAndOverridesNotStaticSuper {
 
-	public abstract int m();
+	public int m() {
+		return 0;
+	}
 }
